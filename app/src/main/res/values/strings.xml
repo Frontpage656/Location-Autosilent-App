@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Auto Silence</string>
+    <string name="app_name">Phone Silencer</string>
     <string name="title_activity_maps">Choose GeoLocation</string>
-    <string name="title_activity_main">Auto Silence</string>
+    <string name="title_activity_main">Phone Silencer</string>
     <string name="map_menu_select">SELECT</string>
 
 
